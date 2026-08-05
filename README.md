@@ -40,7 +40,7 @@ The dataset contains Adidas retail sales data, including:
 
 ## Dashboard Preview
 
-![Executive Sales Performance Dashboard](adidas_dashboard.png)
+![Executive Sales Performance Dashboard](images/adidas_dashboard.png)
 
 ## Key Insights
 
