@@ -72,6 +72,25 @@ The dataset contains Adidas retail sales data, including:
 4. Which sales method generates the highest sales?
 5. How do sales trends change over time?
 
+## Business Recommendations
+
+### Product Strategy
+- Continue investing in high-performing product categories such as Women's Apparel while monitoring lower-performing categories for growth opportunities.
+
+### Regional Strategy
+- Increase inventory allocation and marketing efforts in high-performing regions.
+- Investigate factors contributing to lower sales in underperforming regions and develop targeted improvement strategies.
+
+### Retail Partner Management
+- Strengthen relationships with top-performing retailers such as West Gear and Foot Locker.
+- Work with lower-performing retailers to identify opportunities for improving sales performance.
+
+### Sales Channel Optimisation
+- Continue supporting in-store sales while investing in digital marketing initiatives to increase online sales.
+
+### Data-Driven Decision Making
+- Use dashboards to monitor key performance indicators regularly and support evidence-based business decisions.
+
 ## Repository Structure
 
 ```text
