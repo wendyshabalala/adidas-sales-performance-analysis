@@ -42,6 +42,28 @@ The dataset contains Adidas retail sales data, including:
 
 ![Executive Sales Performance Dashboard](adidas_dashboard.png)
 
+## Key Insights
+
+### Revenue Performance
+- Adidas generated **$899.9M** in total revenue during the analysis period.
+- The business achieved an operating profit of **$332.1M**, resulting in an operating margin of **36.9%**.
+
+### Product Performance
+- Women's Apparel generated the highest revenue among all product categories.
+- Revenue was relatively balanced across product categories, indicating a diversified product portfolio.
+
+### Regional Performance
+- The West region recorded the highest sales revenue.
+- The Midwest region generated the lowest revenue among the five regions.
+
+### Retailer Performance
+- West Gear was the highest-performing retail partner.
+- Foot Locker ranked second in revenue contribution.
+
+### Sales Method
+- In-store sales generated the highest revenue.
+- Online sales contributed the lowest revenue, highlighting an opportunity for digital growth.
+  
 ## Key Business Questions
 
 1. Which product categories generate the highest revenue?
