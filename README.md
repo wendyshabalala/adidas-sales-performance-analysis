@@ -109,7 +109,6 @@ adidas-sales-performance-analysis/
 ├── README.md
 ├── LICENSE
 ├── data/
-├── dashboard/
 ├── images/
 └── report/
 ```
