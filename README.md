@@ -42,6 +42,16 @@ The dataset contains Adidas retail sales data, including:
 
 ![Executive Sales Performance Dashboard](images/adidas_dashboard.png)
 
+## Supporting Analysis
+
+![Pivot Table Analysis](images/pivot_table_analysis.png)
+
+## Project Report
+
+A detailed report documenting the analysis, methodology, key findings, recommendations, limitations, and future improvements.
+
+[View the Full Project Report](report/Adidas_Sales_Performance_Analysis.pdf)
+
 ## Key Insights
 
 ### Revenue Performance
